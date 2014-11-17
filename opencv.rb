@@ -2,7 +2,7 @@ require 'formula'
 
 class Opencv < Formula
   homepage 'http://opencv.org/'
-  url 'https://github.com/Itseez/opencv/archive/2.4.9.tar.gz'
+  url 'https://github.com/Itseez/opencv/archive/3.0.0-beta.tar.gz'
   sha1 'd16ced627db17f9864c681545f18f030c7a4cc0b'
 #  CUDA needs 2.4.10 (see #1228)
 #  url 'https://github.com/Itseez/opencv/archive/2.4.10.tar.gz'
